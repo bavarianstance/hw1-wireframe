@@ -7,7 +7,7 @@ wireframe hw1
 2. CSS
 
 ### Comments
-Please see included screenshot.
+![Screenshot](./screenshot.png "Screenshot 1")
 
 ## Easier Assignment - Building a Wireframe
 
